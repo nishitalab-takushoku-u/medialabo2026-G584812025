@@ -1,0 +1,27 @@
+body{
+    background: radial-gradient(white, #c0ecff);
+}
+h1{
+    color:blue;
+    text-shadow: rgb(255, 224, 224) 1px 0 10px;
+
+}
+h2{
+    background: white;
+    width: fit-content;
+    color:navy;
+    text-shadow: rgb(255, 224, 224) 1px 0 10px;
+    
+}
+a:hover{
+    color:brown
+
+}
+a:link {
+  color:blue
+}
+
+a:visited {
+  color:rebeccapurple;
+}
+
