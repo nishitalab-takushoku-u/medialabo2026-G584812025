@@ -1,9 +1,25 @@
 body{
   background-image: url("https://twist-design.life/twistwp/wp-content/uploads/2020/11/bernard-hermant-X-Bu9X6gok0-unsplash.jpg");
-  background-repeat: no-repeat;
   background-size: cover;
 }
 h1{
-    color:blue;
+    color:rgb(32, 32, 106);
+    font-size: 280%;
 }
-h2{}
+div#Zyouhou  > div {
+	padding: 5px;
+	background-color: green;
+  border: solid rgb(111, 75, 28);
+  border-width: 8px 8px 25px 8px;
+}
+div#Zyouhou {
+	width: fit-content;
+}
+
+h3{
+  color:aliceblue;
+}
+
+p{
+  color:aliceblue;
+}
